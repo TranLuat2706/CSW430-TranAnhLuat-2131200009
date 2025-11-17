@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1WebAPI", "Q1WebAPI.csproj", "{EE013210-E738-4457-8546-0A786F5810F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE013210-E738-4457-8546-0A786F5810F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE013210-E738-4457-8546-0A786F5810F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE013210-E738-4457-8546-0A786F5810F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE013210-E738-4457-8546-0A786F5810F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD60799-E560-4EC7-86F6-60F9FF40CAF0}
+	EndGlobalSection
+EndGlobal
